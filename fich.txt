@@ -1,0 +1,19 @@
+POL 3
+11 le tueur
+15 la victime
+17 le truand
+BD 2
+21 tintin
+23 titeuf
+XX 3
+555 herethere
+56 NORMAL
+77 TkiTki
+FEE 4
+33 Parasite
+66 Mr Robot
+45 Hakcer
+31 Fes hakkma l3alam
+SF 2
+444 Believe
+999 Corporate
